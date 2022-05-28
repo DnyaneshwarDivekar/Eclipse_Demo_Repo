@@ -9,6 +9,7 @@ public class TestClass_001 {
 		int a =10, b=20;
 		System.out.println("sum of a and b is :" + (a+b));
 		
+		System.out.println("sub of a and b is ::" + (a-b));
 	}
 
 }
